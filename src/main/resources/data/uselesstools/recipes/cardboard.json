@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CCC",
+    "CCC"
+  ],
+  "key":
+  {
+    "C": {"item": "minecraft:paper"}
+  },
+  "result": {"item": "uselesstools:cardboard"}
+}

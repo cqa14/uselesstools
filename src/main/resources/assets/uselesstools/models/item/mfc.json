@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "uselesstools:item/mfc"
+  },
+  "__comment": "we use the fullness property override to choose which bag icon to render",
+  "overrides": [
+    { "predicate": { "fullness": 0 }, "model": "uselesstools:item/mfc_0" },
+    { "predicate": { "fullness": 0.01 }, "model": "uselesstools:item/mfc_1" },
+    { "predicate": { "fullness": 0.33 }, "model": "uselesstools:item/mfc_2" },
+    { "predicate": { "fullness": 0.66 }, "model": "uselesstools:item/mfc_3" },
+    { "predicate": { "fullness": 0.99 }, "model": "uselesstools:item/mfc_4" }
+  ]
+}

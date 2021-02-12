@@ -1,0 +1,26 @@
+{
+
+  "itemGroup.uselesstools_group" : "Objets Inutiles",
+
+  "item.uselesstools.crumbs" : "Panure",
+  "item.uselesstools.fried_chicken" : "Poulet Frit",
+  "item.uselesstools.unfried_chicken" : "Poulet Panné",
+  "item.uselesstools.darkstone_shard" : "Éclat De Pierre Noir",
+  "item.uselesstools.darkstone_sword" : "Épée En Pierre Noir",
+  "item.uselesstools.darkstone_shovel" : "Pelle En Pierre Noir",
+  "item.uselesstools.darkstone_axe" : "Hache En Pierre Noir",
+  "item.uselesstools.darkstone_hoe" : "Houe En Pierre Noir",
+  "item.uselesstools.darkstone_pickaxe" : "Pioche En Pierre Noir",
+  "item.uselesstools.darkstone_helmet" : "Casque En Pierre Noir",
+  "item.uselesstools.darkstone_chestplate" : "Plastron En Pierre Noir",
+  "item.uselesstools.darkstone_leggigs" : "Jambiere En Pierre Noir",
+  "item.uselesstools.darkstone_boots" : "Bottes En Pierre Noir",
+  "item.uselesstools.mfc" : "MFC",
+  "item.uselesstools.cardboard" : "Carton",
+  "item.uselesstools.highmeter" : "Altimétre",
+
+  "block.uselesstools.darkstone_ore" : "Minerai De Pierre Noir",
+  "block.uselesstools.darkstone_block" : "Block De Pierre Noir",
+  "block.uselesstools.tick_counter" : "Compteur De Ticks"
+
+}

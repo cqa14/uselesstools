@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CHC",
+    "CCC"
+  ],
+  "key":
+  {
+    "C": {"item": "uselesstools:crumbs"},
+    "H": {"item": "minecraft:chicken"}
+  },
+  "result": {"item": "uselesstools:unfried_chicken"}
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "uselesstools:block/tick_counter"
+    }
+  }
+}

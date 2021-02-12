@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {"item": "uselesstools:unfried_chicken"},
+  "result": "uselesstools:fried_chicken",
+  "experience": 20.0,
+  "cookingtime": 60
+}

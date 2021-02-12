@@ -1,0 +1,26 @@
+{
+
+  "itemGroup.uselesstools_group" : "Useless Tools",
+
+  "item.uselesstools.crumbs" : "Crumbs",
+  "item.uselesstools.fried_chicken" : "Fried Chicken",
+  "item.uselesstools.unfried_chicken" : "Unfried Chicken",
+  "item.uselesstools.darkstone_shard" : "Dark Stone Shard",
+  "item.uselesstools.darkstone_sword" : "Dark Stone Sword",
+  "item.uselesstools.darkstone_shovel" : "Dark Stone Shovel",
+  "item.uselesstools.darkstone_axe" : "Dark Stone Axe",
+  "item.uselesstools.darkstone_hoe" : "Dark Stone Hoe",
+  "item.uselesstools.darkstone_pickaxe" : "Dark Stone Pickaxe",
+  "item.uselesstools.darkstone_helmet" : "Dark Stone Helmet",
+  "item.uselesstools.darkstone_chestplate" : "Dark Stone Chestplate",
+  "item.uselesstools.darkstone_leggigs" : "Dark Stone Leggings",
+  "item.uselesstools.darkstone_boots" : "Dark Stone Boots",
+  "item.uselesstools.mfc" : "MFC",
+  "item.uselesstools.cardboard" : "Cardboard",
+  "item.uselesstools.highmeter" : "Highmeter",
+
+  "block.uselesstools.darkstone_ore" : "Dark Stone Ore",
+  "block.uselesstools.darkstone_block" : "Dark Stone Block",
+  "block.uselesstools.tick_counter" : "Ticks Counter"
+
+}

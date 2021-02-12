@@ -1,0 +1,17 @@
+
+{
+  "variants": {
+    "": [
+      { "model": "uselesstools:block/darkstone_ore" },
+      { "model": "uselesstools:block/darkstone_ore", "y": 90 },
+      { "model": "uselesstools:block/darkstone_ore", "y": 180 },
+      { "model": "uselesstools:block/darkstone_ore", "y": 270 },
+      { "model": "uselesstools:block/darkstone_ore", "x": 90 },
+      { "model": "uselesstools:block/darkstone_ore", "x": 180 },
+      { "model": "uselesstools:block/darkstone_ore", "x": 270 },
+      { "model": "uselesstools:block/darkstone_ore", "z": 90 },
+      { "model": "uselesstools:block/darkstone_ore", "z": 180 },
+      { "model": "uselesstools:block/darkstone_ore", "z": 270 }
+    ]
+  }
+}
